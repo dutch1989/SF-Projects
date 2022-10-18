@@ -7,6 +7,6 @@ From the [Skill Factory Data Science course](https://skillfactory.ru/data-scient
 
 * [Проект 0. Угадай число](https://github.com/dutch1989/SF-Projects/tree/master/SF%20Projects/project%200)
 * [Проект 1. Анализ вакансий hh.ru](https://github.com/dutch1989/SF-Projects/tree/master/SF%20Projects/project%201)
-* [Проект 2. Прогнозирование рейтинга отеля на Booking](______)
+* [Проект 2. Прогнозирование рейтинга отеля на Booking](https://github.com/dutch1989/SF-Projects/tree/master/SF%20Projects/project%202)
 
 ## Ссылки на резюме
